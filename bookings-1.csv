@@ -1,0 +1,4 @@
+c_id,name,address,ph_no,car_id,d_o_buying,d_o_returning,remaining,fine
+CUST1001,manish,kundapura,8934643854,C002,'01/08/2025','06/08/2025',1,0
+CUST1002,anson,udupi,93824632873,C005,'28/07/2025','04/08/2025',returned,1600
+CUST1003,ajith,karkala,32184734893,C005,'01/08/2025','04/08/2025',returned,1600

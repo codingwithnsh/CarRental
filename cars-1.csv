@@ -1,0 +1,21 @@
+car_id,car_name,no_plate,price,seats,type,category,fuel,engine/battery_cap,mileage,availability,car_image
+C001,Toyota Innova Crysta (2019)3,KA01AB1234,2300,7,suv,standard,diesel,1593cc,13,yes,https://www.toyotainnovacarhire.com/images/luxury-car-rentals/innova-crysta-8-seater-car-hire-delhi.jpg
+C002,Hyundai Creta (2016),KA20MB3015,1300,5,suv,eco+G3nomy,diesel,1389cc,14.8,no,https://cdn-cmocf.nitrocdn.com/LQTUbucCTNnUuJtbwDgwnTBnMQOwMXKo/assets/images/optimized/rev-63c8605/rentalcarsuae.com/wp-content/uploads/2016/12/Rent-Hyundai-Creta-in-Dubai-side-view-another-381x251.jpg
+C003,Maruti Suzuki Dzire 2022,MH12AB1234,1200,5,sedan,economy,petrol,1197cc,23.2,yes,https://i.ytimg.com/vi/79hNqxLk_So/sddefault.jpg.jpg
+C004,Hyundai Aura 2023,DL8CAF5678,1300,5,sedan,economy,diesel,1186cc,25.4,yes,https://www.financialexpress.com/wp-content/uploads/2023/01/Hyundai-Aura-facelift.jpg
+C005,Renault Triber 2021,KA03DE4567,1100,7,van,economy,petrol,999cc,20,yes,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5mSmoHXZUVgxiLd6O19SlB0UcuuXYdZ7C-w&s
+C006,Tata Tigor 2022,GJ01FG8910,1150,5,sedan,economy,petrol,1199cc,20.3,yes,https://images.hindustantimes.com/auto/img/2022/01/26/1600x900/2022_Tata_Tigor_iCNG_1643222794886_1643222806583.jpeg
+C007,Kia Sonet 2023,TN22GH1122,1400,5,suv,economy,diesel,1493cc,24.1,yes,sonet.jpg
+C008,Mahindra Bolero 2020,RJ14IJ3344,1250,7,suv,economy,diesel,1498cc,16.7,yes,bolero.jpg
+C009,Tata Tiago EV 2023,HR26EE7890,1600,5,sedan,economy,electric,24 kWh,250 km,yes,tiago_ev.jpg
+C010,Honda City 2023,MH01KL5566,2000,5,sedan,standard,petrol,1498cc,17.8,yes,city.jpg
+C011,Hyundai Creta 2022,DL3CMN7788,2200,5,suv,standard,diesel,1493cc,21.4,yes,creta.jpg
+C012,Toyota Innova Crysta 2021,KA05OP9900,2500,7,van,standard,diesel,2393cc,15.6,yes,innova.jpg
+C013,Volkswagen Virtus 2023,GJ27QR1234,1900,5,sedan,standard,petrol,1498cc,18.6,yes,virtus.jpg
+C014,Mahindra XUV700 2023,TN10ST5678,2400,7,suv,standard,diesel,2198cc,17,yes,xuv700.jpg
+C015,MG ZS EV 2023,CH01EV7890,2600,5,suv,standard,electric,50.3 kWh,461 km,yes,zs_ev.jpg
+C016,BMW X1 2023,MH04WX2345,4000,5,suv,luxury,diesel,1995cc,16.3,yes,bmw_x1.jpg
+C017,Mercedes-Benz AClass 2022,DL7AYZ6789,4200,5,sedan,luxury,petrol,1332cc,17.5,yes,a_class.jpg
+C018,Audi Q3 2023,KA08BC1122,4500,5,suv,luxury,petrol,1984cc,14.9,yes,q3.jpg
+C019,Jaguar XF 2021,GJ06DE3344,4800,5,sedan,luxury,diesel,1999cc,19.3,yes,xf.jpg
+C020,Toyota Vellfire 2022,TN03JK1111,5500,7,van,luxury,hybrid,2494cc,16.4,yes,vellfire.jpg
